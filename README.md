@@ -25,12 +25,12 @@ This project investigates the use of machine learning models to predict **colore
 ### Classifier Performance (Figure 2)  
 Different classifiers showed variability in predictive performance. Ensemble-based methods (e.g., Random Forest, Gradient Boosting) outperformed traditional baselines in recurrence prediction.  
 
-![Figure 1: Results](figures/results.png)
+![Figure 1: Results](results.png)
 
 ### Feature Importance of Static Features (Figure 3)  
 Feature importance analysis was conducted on the **static features**. These findings highlight the predictive value of specific static characteristics in addition to temporal trends.  
 
-![Figure 1: Feature Importance](figures/featureImportance.png)
+![Figure 1: Feature Importance](featureImportance.png)
 
 
 
